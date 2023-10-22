@@ -35,3 +35,5 @@ git push origin main
 9. 
 echo. > command.sh
 git add command.sh
+git commit -m "Updated command.sh file"
+git push origin main
